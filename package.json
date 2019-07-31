@@ -1,0 +1,22 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "Matrix Animation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "electron .",
+    "electron:dist": "electron-packager ."
+  },
+  "keywords": [
+    "matrix",
+    "animation",
+    "electron"
+  ],
+  "author": "Nenad Kaevik",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.0",
+    "electron-packager": "^14.0.4"
+  }
+}
