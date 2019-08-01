@@ -3,6 +3,7 @@
 
 # compiled output
 /dist
+/matrix-win32-x64
 
 # project files
 package-lock.json

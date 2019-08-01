@@ -9,6 +9,10 @@ To install all dependencies run
 
     npm install
 
+To bundle the app
+
+    npm run build
+    
 To build the app run
 
     npm run electron:build
