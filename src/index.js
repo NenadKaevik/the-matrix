@@ -12,7 +12,7 @@ let gContext, gWidth, gHeight, // Our Canvas
 
 // Set the height of the font. 
 // Let's use Google's Open Sans font (loaded via CSS) to make sure it looks the same, everywhere 
-gFontHeight = 12;
+gFontHeight = 16;
 gFont = gFontHeight + 'px "Open Sans"';
 
 // During each render, we blat the screen with this, to make everything we've already drawn fade a little. The higher the Alpha, the quicker everything will fade.
