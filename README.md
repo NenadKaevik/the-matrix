@@ -20,4 +20,4 @@ To exit the app press ALT + F4. This will be fixed in the next update by pressin
 Enjoy and remember
 **There is no spoon**
 
-<iframe src="https://giphy.com/embed/7JmwXKU4sQDI7UzD7X" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Related image](https://media.tenor.com/images/16601abb9a47ec1529d84d39b12519d4/tenor.gif)
